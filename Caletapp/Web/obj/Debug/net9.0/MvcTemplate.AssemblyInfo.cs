@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvcTemplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b0dc7378d4234e8493f8705469c6a65132b2d9d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6eeb88dfaa87808ceba4b102b47238b20ff22d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvcTemplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvcTemplate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
