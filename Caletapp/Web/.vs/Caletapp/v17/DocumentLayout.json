@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|c:\\users\\usuario\\source\\repos\\app_caletapp\\caletapp\\web\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|c:\\users\\usuario\\source\\repos\\app_caletapp\\caletapp\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|c:\\users\\usuario\\source\\repos\\app_caletapp\\caletapp\\web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|c:\\users\\usuario\\source\\repos\\app_caletapp\\caletapp\\web\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|solutionrelative:controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|c:\\users\\usuario\\source\\repos\\app_caletapp\\caletapp\\web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|c:\\users\\usuario\\source\\repos\\app_caletapp\\caletapp\\web\\views\\registro\\addusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|solutionrelative:views\\registro\\addusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|c:\\users\\usuario\\source\\repos\\app_caletapp\\caletapp\\web\\views\\login\\getlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|solutionrelative:views\\login\\getlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|c:\\users\\usuario\\source\\repos\\app_caletapp\\caletapp\\web\\wwwroot\\css\\registro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1CA8AC85-2F84-4566-8011-2CDF705469CF}|MvcTemplate.csproj|solutionrelative:wwwroot\\css\\registro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2919B29D-A381-4389-A9D9-5A96FE129EEB}|..\\Services\\Services.csproj|c:\\users\\usuario\\source\\repos\\app_caletapp\\caletapp\\services\\common\\mprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2919B29D-A381-4389-A9D9-5A96FE129EEB}|..\\Services\\Services.csproj|c:\\users\\usuario\\source\\repos\\app_caletapp\\caletapp\\services\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89F7701-1230-045D-AC93-AE7F7C59B668}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\source\\repos\\app_caletapp\\caletapp\\infrastructure\\repositories\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89F7701-1230-045D-AC93-AE7F7C59B668}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\source\\repos\\app_caletapp\\caletapp\\infrastructure\\repositories\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2919B29D-A381-4389-A9D9-5A96FE129EEB}|..\\Services\\Services.csproj|c:\\users\\usuario\\source\\repos\\app_caletapp\\caletapp\\services\\dtos\\loginmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2919B29D-A381-4389-A9D9-5A96FE129EEB}|..\\Services\\Services.csproj|c:\\users\\usuario\\source\\repos\\app_caletapp\\caletapp\\services\\iservices\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2919B29D-A381-4389-A9D9-5A96FE129EEB}|..\\Services\\Services.csproj|c:\\users\\usuario\\source\\repos\\app_caletapp\\caletapp\\services\\dtos\\registromodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Web\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Web\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-09T03:39:09.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Web\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:37:56.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T10:33:34.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registro.css",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Web\\wwwroot\\css\\Registro.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Registro.css",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Web\\wwwroot\\css\\Registro.css",
+              "RelativeToolTip": "wwwroot\\css\\Registro.css",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-08T09:46:39.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Services\\Common\\MProfile.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Common\\MProfile.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Services\\Common\\MProfile.cs",
+              "RelativeToolTip": "..\\Services\\Common\\MProfile.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:26:54.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Web\\Views\\Registro\\AddUsuario.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registro\\AddUsuario.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Web\\Views\\Registro\\AddUsuario.cshtml",
+              "RelativeToolTip": "Views\\Registro\\AddUsuario.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T09:12:55.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Web\\Views\\Login\\GetLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\GetLogin.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Web\\Views\\Login\\GetLogin.cshtml",
+              "RelativeToolTip": "Views\\Login\\GetLogin.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T09:12:45.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Web\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Web\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:47:38.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistroController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Web\\Controllers\\RegistroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistroController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Web\\Controllers\\RegistroController.cs",
+              "RelativeToolTip": "Controllers\\RegistroController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:46:39.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Services\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Services\\Service.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Services\\Services\\Service.cs",
+              "RelativeToolTip": "..\\Services\\Services\\Service.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:43:37.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Services\\IServices\\IService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\IServices\\IService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Services\\IServices\\IService.cs",
+              "RelativeToolTip": "..\\Services\\IServices\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:41:41.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Infrastructure\\Repositories\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Infrastructure\\Repositories\\Repositories\\Repository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:33:48.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Infrastructure\\Repositories\\IRepositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\IRepositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Infrastructure\\Repositories\\IRepositories\\IRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\IRepositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:31:15.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginModels.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Services\\Dtos\\LoginModels.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Dtos\\LoginModels.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Services\\Dtos\\LoginModels.cs",
+              "RelativeToolTip": "..\\Services\\Dtos\\LoginModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:28:20.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistroModels.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Services\\Dtos\\RegistroModels.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Dtos\\RegistroModels.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\app_caletapp\\Caletapp\\Services\\Dtos\\RegistroModels.cs",
+              "RelativeToolTip": "..\\Services\\Dtos\\RegistroModels.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:21:54.054Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

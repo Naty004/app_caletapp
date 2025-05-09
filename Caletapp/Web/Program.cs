@@ -47,7 +47,7 @@ public class Program
         app.MapStaticAssets();
         app.MapControllerRoute(
             name: "default",
-            pattern: "{controller=Home}/{action=Index}/{id?}")
+            pattern: "{controller=Login}/{action=GetLogin}/{id?}")
             .WithStaticAssets();
         app.MapRazorPages()
            .WithStaticAssets();

@@ -5,7 +5,7 @@ using Services.IServices;
 
 namespace MvcTemplate.Controllers
 {
-    [Authorize]
+    /**[Authorize]
     public class MilkController : Controller
     {
         private IService Service { get; set; }
@@ -39,5 +39,5 @@ namespace MvcTemplate.Controllers
             }
             return View(model);
         }
-    }
+    }**/
 }
